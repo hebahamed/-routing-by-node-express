@@ -1,0 +1,92 @@
+{
+  "products": {
+    "1": {
+      "id": 1,
+      "name": "black bag",
+      "description": "black bag, leather",
+      "price": 50,
+      "discount": 0.5,
+      "isOnSale": true,
+      "tags": [
+        "bag",
+        "accessories"
+      ],
+      "category": 1
+    },
+    "2": {
+      "id": 2,
+      "name": "white bag",
+      "description": "white bag, leather",
+      "price": 70,
+      "discount": 0.3,
+      "isOnSale": false,
+      "tags": [
+        "bag",
+        "accessories"
+      ],
+      "category": 2
+    },
+    "3": {
+      "id": 3,
+      "name": "black bag",
+      "description": "black bag, leather",
+      "price": 50,
+      "discount": 0.5,
+      "isOnSale": true,
+      "tags": [
+        "bag",
+        "accessories"
+      ],
+      "category": 1
+    },
+    "4": {
+      "id": 4,
+      "name": "black bag",
+      "description": "black bag, leather",
+      "price": 50,
+      "discount": 0.5,
+      "isOnSale": true,
+      "tags": [
+        "bag",
+        "accessories"
+      ],
+      "category": 3
+    },
+    "5": {
+      "id": 5,
+      "name": "black bag",
+      "description": "black bag, leather",
+      "price": 50,
+      "discount": 0.5,
+      "isOnSale": true,
+      "tags": [
+        "bag",
+        "accessories"
+      ],
+      "category": 2
+    }
+  },
+  "categories": {
+
+    "1": {
+      "id": 1,
+      "name": "accessories 1",
+      "description": "black bag, leather description 1"
+
+  },
+  "2": {
+    "id": 2,
+    "name": "accessories 2",
+    "description": "black bag, leather description 2"
+
+},
+"3": {
+  "id": 3,
+  "name": "accessories 3",
+  "description": "black bag, leather description 3"
+
+}
+  }
+
+
+}
